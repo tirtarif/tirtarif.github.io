@@ -17,13 +17,13 @@ timezone: Asia/Singapore
 title: Arif Tirtana # the main title
 
 # use HTML for tagline
-tagline: Hi and welcome to my blog. This blog serves as a repository for my career-related notes. Feel free to contact me if you have any matters to discuss.
+tagline: Hi, welcome to my blog. This blog serves as a repository for my career-related notes.
 # <br><i class="fa-solid fa-user-tie"></i> Assistant Lecturer\
 # <br><i class="fa-solid fa-location-dot"></i> Makassar, Indonesia
 # <i class="fa-solid fa-book"></i> learning, teaching and sharing<br>
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  https://tirtarif.github.io is my personal blog and serves as a repository for my career-related notes.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
