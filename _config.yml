@@ -28,7 +28,10 @@ url: 'https://tirtarif.github.io'
 github:
   username: tirtarif # change to your github username
 
-twitter:
+# twitter:
+#   username: tirtarif # change to your twitter username
+
+linkedin:
   username: tirtarif # change to your twitter username
 
 social:
@@ -39,6 +42,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/tirtarif # change to your github homepage
+    - https://www.linkedin.com/in/username # change to your linkedin homepage
     #- https://twitter.com/username # change to your twitter homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
