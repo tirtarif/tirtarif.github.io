@@ -16,7 +16,7 @@ timezone: Asia/Singapore
 
 title: Arif Tirtana # the main title
 
-tagline: Hi! Welcome to my website # it will display as the sub-title
+tagline: learning, teaching and sharing # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -28,10 +28,7 @@ url: 'https://tirtarif.github.io'
 github:
   username: tirtarif # change to your github username
 
-# twitter:
-#   username: tirtarif # change to your twitter username
-
-instagram:
+twitter:
   username: tirtarif # change to your twitter username
 
 social:
