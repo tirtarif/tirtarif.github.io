@@ -17,11 +17,10 @@ timezone: Asia/Singapore
 title: Arif Tirtana # the main title
 
 # use HTML for tagline
-tagline: # it will display as the sub-title
-Hi, welcome to my blog!
+tagline: Hi, welcome to my blog!
 <br><i class="fa-solid fa-user-tie"></i> Assistant Lecturer
 <br><i class="fa-solid fa-book"></i> learning, teaching and sharing
-<br><i class="fa-solid fa-location-dot"></i> Makassar, Indonesia
+<br><i class="fa-solid fa-location-dot"></i> Makassar, Indonesia # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
