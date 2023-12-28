@@ -16,7 +16,8 @@ timezone: Asia/Singapore
 
 title: Arif Tirtana # the main title
 
-tagline: <b>learning, teaching and sharing</b> # it will display as the sub-title
+# use HTML for tagline
+tagline: Hi, welcome to my blog! <br> learning, teaching and sharing <br> <i class="fa-solid fa-location-dot"></i> Makassar, Indonesia # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
