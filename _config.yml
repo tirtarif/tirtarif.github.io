@@ -17,9 +17,9 @@ timezone: Asia/Singapore
 title: Arif Tirtana # the main title
 
 # use HTML for tagline
-tagline: >- Hi, welcome to my blog!
-<br><br><i class="fa-solid fa-user-tie"></i> Assistant Lecturer
-<br><i class="fa-solid fa-location-dot"></i> Makassar, Indonesia
+tagline: Hi, welcome to my blog!\
+<br><br><i class="fa-solid fa-user-tie"></i> Assistant Lecturer\
+<br><i class="fa-solid fa-location-dot"></i> Makassar, Indonesia\
 # <i class="fa-solid fa-book"></i> learning, teaching and sharing<br>
 
 description: >- # used by seo meta and the atom feed
