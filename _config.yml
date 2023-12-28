@@ -16,11 +16,7 @@ timezone: Asia/Singapore
 
 title: Arif Tirtana # the main title
 
-# use HTML for tagline
 tagline: Hi, welcome to my blog. This blog serves as a repository for my career-related notes.
-# <br><i class="fa-solid fa-user-tie"></i> Assistant Lecturer\
-# <br><i class="fa-solid fa-location-dot"></i> Makassar, Indonesia
-# <i class="fa-solid fa-book"></i> learning, teaching and sharing<br>
 
 description: >- # used by seo meta and the atom feed
   https://tirtarif.github.io is my personal blog and serves as a repository for my career-related notes.
@@ -117,7 +113,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: ""
+baseurl: "/tirtarif.github.io"
 
 # ------------ The following options are not recommended to be modified ------------------
 
