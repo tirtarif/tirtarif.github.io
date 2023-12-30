@@ -2,16 +2,16 @@
 # the default layout is 'page'
 icon: fas fa-info-circle
 order: 4
+layout: post
 title: About Me
 author: Arif Tirtana
 date: 2023-12-30 12:00:00 +0700
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
-
 _Bismillah_,
+
 _Assalamu'alaikum warahmatullahi wabarakatuh_
+
 
 Hi, my name is Arif Tirtana, and you can call me Arif or Tirta. I am from Sungguminasa, South Sulawesi, Indonesia. I received my master's degree in Plant Breeding and Biotechnology from Bogor Agricultural University (IPB University), with research topics on upland rice, multilocation trials, biotic and abiotic stresses, and multivariate analysis. 
 
