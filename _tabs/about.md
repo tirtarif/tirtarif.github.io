@@ -2,8 +2,6 @@
 # the default layout is 'page'
 icon: fas fa-info-circle
 order: 4
-title: About Me
-author: Arif Tirtana
 ---
 
 _Bismillah_, _Assalamu'alaikum warahmatullahi wabarakatuh_
